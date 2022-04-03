@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/umarahh4u/reactpract/static/css/main.8570d83a.css",
+    "main.js": "/umarahh4u/reactpract/static/js/main.89f6ebc6.js",
+    "static/js/787.0edbcda9.chunk.js": "/umarahh4u/reactpract/static/js/787.0edbcda9.chunk.js",
+    "index.html": "/umarahh4u/reactpract/index.html",
+    "main.8570d83a.css.map": "/umarahh4u/reactpract/static/css/main.8570d83a.css.map",
+    "main.89f6ebc6.js.map": "/umarahh4u/reactpract/static/js/main.89f6ebc6.js.map",
+    "787.0edbcda9.chunk.js.map": "/umarahh4u/reactpract/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8570d83a.css",
+    "static/js/main.89f6ebc6.js"
+  ]
+}
